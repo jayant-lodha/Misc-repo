@@ -1,5 +1,5 @@
 # Misc-repo
 
-##sub -header
+## sub -header
 
 learn git and github
